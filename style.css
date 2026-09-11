@@ -10,7 +10,7 @@
 
     height: 70vh;
 
-    background-image: url(../imgs/banner-principal-home.png);
+    background-image: url(imgs/banner-principal-home.png);
     background-size: cover;
 
     /* background-repeat: no-repeat; */
@@ -177,7 +177,7 @@
 .banner-meio {
     height: 60vh;
 
-    background-image: url(../imgs/Banner\ centro.svg);
+    background-image: url(imgs/Banner\ centro.svg);
     background-size: cover;
 
     display: flex;
